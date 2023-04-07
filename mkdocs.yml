@@ -2,8 +2,8 @@ site_name: Open Mfantse
 site_url: https://www.mfantse.com
 
 # Repository
-repo_name: mfantse/www.mfantse
-repo_url: https://github.com/mfantse/www.mfantse
+repo_name: mfantse/mfantse
+repo_url: https://github.com/mfantse/mfantse
 
 # Copyright
 copyright: Copyright &copy; 2023 Enoch T. Enchill
@@ -69,8 +69,8 @@ theme:
   name: material
   features:
     - announce.dismiss
-    - content.action.edit
-    - content.action.view
+    # - content.action.edit
+    # - content.action.view
     - content.code.annotate
     - content.code.copy
     # - content.tabs.link
