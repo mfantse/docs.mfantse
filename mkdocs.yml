@@ -1,0 +1,118 @@
+site_name: Open Mfantse
+site_url: https://www.mfantse.com
+
+# Repository
+repo_name: mfantse/www.mfantse
+repo_url: https://github.com/mfantse/www.mfantse
+
+# Copyright
+copyright: Copyright &copy; 2023 Enoch T. Enchill
+
+plugins:
+  - search
+  - mkdocstrings
+
+nav:
+  - Home: 'index.md'
+  - About: 'about.md'
+  - Adzesua:
+    - Adzesua: 'adzesua/index.md'
+    - Akyerɛwaba: 'adzesua/akyerɛwaba.md'
+    - Nkanee: 'adzesua/nkanee.md'
+    - Ndafua: 'adzesua/ndafua.md'
+  - Nkasafua:
+    - Nkasafua: nkasafua/index.md
+    - A: nkasafua/a.md
+    - B: nkasafua/b.md
+    - D: nkasafua/d.md
+    - E: nkasafua/e.md
+    - Ɛ: nkasafua/ɛ.md
+    - F: nkasafua/f.md
+    - G: nkasafua/g.md
+    - H: nkasafua/h.md
+    - I: nkasafua/i.md
+    - J: nkasafua/j.md
+    - K: nkasafua/k.md
+    - L: nkasafua/l.md
+    - M: nkasafua/m.md
+    - N: nkasafua/n.md
+    - O: nkasafua/o.md
+    - Ɔ: nkasafua/ɔ.md
+    - P: nkasafua/p.md
+    - R: nkasafua/r.md
+    - S: nkasafua/s.md
+    - T: nkasafua/t.md
+    - U: nkasafua/u.md
+    - W: nkasafua/w.md
+    - Y: nkasafua/y.md
+    - Z: nkasafua/z.md
+  - Nwoma:
+    - Nwoma: nwoma/index.md
+    - Abakɔsɛm: nwoma/abakɔsɛm.md
+    - Amandze: nwoma/amandze.md
+    - Kodzisɛm: nwoma/kodzisɛm.md
+    - Mbɛbusɛm: nwoma/mbɛbusɛm.md
+    - Amambu: nwoma/amambu.md
+    - Nyankopon: nwoma/nyankopon.md
+    - Nkanyan: nwoma/nkanyan.md
+    - Adwuma: nwoma/adwuma.md
+    - Ahenmaa: nwoma/ahenmaa.md
+    - Nhyira: nwoma/nhyira.md
+    - Edziban: nwoma/edziban.md
+    - Asafokuw: nwoma/asafokuw.md
+    - Nkonyim: nwoma/nkonyim.md
+    - Nyimdzee: nwoma/nyimdzee.md
+    - Nkankɔ: nwoma/nkankɔ.md
+  - Contact: 'contact.md'
+
+theme:
+  name: material
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
+markdown_extensions:
+  - tables
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
