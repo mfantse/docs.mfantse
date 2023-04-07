@@ -1,9 +1,7 @@
-Numbers
-=======
+# Nkanee
 
-Nkanee
-------
 The following are the names of the numbers one through twenty.
+
 1. Kor
 2. Ebien
 3. Ebiasa

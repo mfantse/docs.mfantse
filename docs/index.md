@@ -1,7 +1,7 @@
 # Welcome to Open Mfantse Community
 
 
-**Mfantse** (/m'fan'tse/), also known as Fante, Fantse, is one of the three principal members of the Akan dialect continuum, 
+**Mfantse** (/m'fan'tse/), also known as Fantse or Fante, is one of the three principal members of the Akan dialect continuum, 
 along with Asante and Akuapem, the latter two collectively known as Twi, with which it is mutually intelligible.
 It is principally spoken in the central and southern regions of Ghana as well as in settlements in other regions in western Ghana, 
 Ivory Coast, as well as in Liberia, Gambia and Angola.
@@ -11,10 +11,8 @@ For more information about this project, visit the [Open Mfantse](<https://www.m
 To contribute to the development of this documentation, check out the :doc:`contributions` section for further information.
 Kindly support this project with any amount in kind or in cash. Visit the :doc:`donations` section for more details.
 
-
-.. note::
-
-   This project is under active development.
+> :memo:
+> This project is under active development.
 
 
 
