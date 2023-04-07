@@ -13,8 +13,7 @@ plugins:
   - mkdocstrings
 
 nav:
-  - Home: 'index.md'
-  - About: 'about.md'
+  - Nyienyim: 'index.md'
   - Adzesua:
     - Adzesua: 'adzesua/index.md'
     - Akyerɛwaba: 'adzesua/akyerɛwaba.md'
@@ -63,7 +62,6 @@ nav:
     - Nkonyim: nwoma/nkonyim.md
     - Nyimdzee: nwoma/nyimdzee.md
     - Nkankɔ: nwoma/nkankɔ.md
-  - Contact: 'contact.md'
 
 theme:
   name: material
