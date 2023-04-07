@@ -14,7 +14,7 @@ The people within these communities and their surroundings are generally reffere
 
 The official Mfantse Language studied in Ghanaian schools is a unified version of all these languages. Words are borrowed from all the various Mfantse dialects.
 
-However, it is worth noting that choices of words in written Mfantse nwoma are mostly influenced by the native language of the writer. For instance, a Gomoa writer 
+However, it is worth noting that choices of words in written Mfantse adowno are mostly influenced by the native language of the writer. For instance, a Gomoa writer 
 will write ``otu`` for **gun**, whiles the Fetu writer will spell it as ``etu``. However, the unified Mfantse word for **gun** is ``itsur``.
 
 

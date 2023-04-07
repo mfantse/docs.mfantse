@@ -1,10 +1,10 @@
 # Abakɔsɛm
 
-Mfantsefo Abakɔsɛm Nwoma
+Mfantsefo Abakɔsɛm Adowno
 
 
 ## Nyienyim
-Abakɔsɛm nye Mfantsefo nwoma a odzikan. Dɛm nwoma yi ka Mfantsefo abakɔsɛm ndzidzido ndizdzido
+Abakɔsɛm nye Mfantsefo adowno a odzikan. Dɛm adowno yi ka Mfantsefo abakɔsɛm ndzidzido ndizdzido
 
 ## Tsir 1: Mfantse Nkrow Ahyɛse
 
