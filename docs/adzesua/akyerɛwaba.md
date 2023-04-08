@@ -1,4 +1,4 @@
-# Akyerɛwaba
+# Akyerɛwamba
 
 The Mfantse Alphabets
 
@@ -18,7 +18,7 @@ Ii      Jj      Kk      Ll      Mm      Nn      Oo      Ɔɔ
 Pp      Rr      Ss      Tt      Uu      Ww      Yy      Zz
 
 
-## Akyerɛwaba Akɛse
+## Akyerɛwamba Akɛse
 
 The following are the ``CAPITAL`` letters of the Mfantse Language.
 
@@ -26,7 +26,7 @@ A       B       D       E       Ɛ       F       G       H
 I       J       K       L       M       N       O       Ɔ
 P       R       S       T       U       W       Y       Z 
 
-## Akyerɛwaba Nkakraba
+## Akyerɛwamba Nkakraba
 
 The following are the ``small`` letters of the Mfantse Language.
 

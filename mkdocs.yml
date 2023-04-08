@@ -45,23 +45,24 @@ nav:
     - W: nkasafua/w.md
     - Y: nkasafua/y.md
     - Z: nkasafua/z.md
-  - Nwoma:
-    - Nwoma: nwoma/index.md
-    - Abakɔsɛm: nwoma/abakɔsɛm.md
-    - Amandze: nwoma/amandze.md
-    - Kodzisɛm: nwoma/kodzisɛm.md
-    - Mbɛbusɛm: nwoma/mbɛbusɛm.md
-    - Amambu: nwoma/amambu.md
-    - Nyankopon: nwoma/nyankopon.md
-    - Nkanyan: nwoma/nkanyan.md
-    - Adwuma: nwoma/adwuma.md
-    - Ahenmaa: nwoma/ahenmaa.md
-    - Nhyira: nwoma/nhyira.md
-    - Edziban: nwoma/edziban.md
-    - Asafokuw: nwoma/asafokuw.md
-    - Nkonyim: nwoma/nkonyim.md
-    - Nyimdzee: nwoma/nyimdzee.md
-    - Nkankɔ: nwoma/nkankɔ.md
+  - Adowno:
+    - Adowno: adowno/index.md
+    - Abakɔsɛm: adowno/abakɔsɛm.md
+    - Amandze: adowno/amandze.md
+    - Kodzisɛm: adowno/kodzisɛm.md
+    - Mbɛbusɛm: adowno/mbɛbusɛm.md
+    - Amambu: adowno/amambu.md
+    - Nyankopon: adowno/nyankopon.md
+    - Nkanyan: adowno/nkanyan.md
+    - Adwuma: adowno/adwuma.md
+    - Ahenmaa: adowno/ahenmaa.md
+    - Nhyira: adowno/nhyira.md
+    - Edziban: adowno/edziban.md
+    - Asafokuw: adowno/asafokuw.md
+    - Nkonyim: adowno/nkonyim.md
+    - Nyimdzee: adowno/nyimdzee.md
+    - Akandzi: adowno/akandzi.md
+    - Daakye: adowno/daakye.md
 
 theme:
   name: material

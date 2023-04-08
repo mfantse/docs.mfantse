@@ -1,14 +1,14 @@
-# Nwoma
+# Adowno
 
-Mfantsefo Nwoma
+Mfantsefo Adowno
 
 
 ## Nyienyim
 
-Nwoma kakaku
+Adowno kakaku
 
 
-## Nwoma Ahorow
+## Adowno Ahorow
 1. [Abakɔsɛm](abakɔsɛm)
 2. [Amandze](amandze)
 3. [Kodzisɛm](kodzisɛm)
@@ -23,6 +23,6 @@ Nwoma kakaku
 12. [Asafokuw](asafokuw)
 13. [Nkonyim](nkonyim)
 14. [Nyimdzee](nyimdzee)
-15. [Nkankɔ](nkankɔ)
+15. [Akandzi](akandzi)
 16. [Daakye](daakye)
 
