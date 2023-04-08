@@ -16,7 +16,7 @@ The project was started by Enoch T. Enchill as an open source project and named 
 ## Contributions
 
 > :memo:
-> This project is under active development in a public repository on GitHub. You can contribute by making PR on GitHub or contact Enoch on **+233(0)558285140**
+> This project is under active development in a public repository on GitHub. You can contribute by making PR on GitHub or contact Enoch on **+233558285140** or via email **et.enchill@gmail.com**.
 
 The project is made up of three apps: `Adzesua`, `Nkasafua` and `Adowno`.
 
