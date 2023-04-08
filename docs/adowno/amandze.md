@@ -1,4 +1,3 @@
 # Amandze
 
-Akanfo Amambra Na Amandze
-
+Amambra Na Amandze

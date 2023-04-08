@@ -17,8 +17,10 @@ nav:
   - Adzesua:
     - Adzesua: 'adzesua/index.md'
     - Ahyɛse: 'adzesua/ahyɛse.md'
-    - Nkanee: 'adzesua/nkanee.md'
-    - Ndafua: 'adzesua/ndafua.md'
+    - Anokasadwin: 'adzesua/anokasadwin.md'
+    - 'Amambra na Amandze': 'adzesua/amambra.md'
+    - 'Mfantsefo Afahyɛ': 'adzesua/afahyɛ.md'
+    - 'Mfantse Na Brɔfo': 'adzesua/brɔfo.md'
   - Nkasafua:
     - Nkasafua: nkasafua/index.md
     - A: nkasafua/a.md
@@ -47,22 +49,22 @@ nav:
     - Z: nkasafua/z.md
   - Adowno:
     - Adowno: adowno/index.md
-    - Abakɔsɛm: adowno/abakɔsɛm.md
+    - Ahyɛse: adowno/ahyɛse.md
+    - Akwantu: adowno/akwantu.md
+    - Asɔfo: adowno/asɔfo.md
+    - Nkanee: adowno/nkanee.md
+    - Asafo: adowno/asafo.md
     - Amandze: adowno/amandze.md
     - Kodzisɛm: adowno/kodzisɛm.md
     - Mbɛbusɛm: adowno/mbɛbusɛm.md
     - Amambu: adowno/amambu.md
-    - Nyankopon: adowno/nyankopon.md
+    - Gyedzi: adowno/gyedzi.md
     - Nkanyan: adowno/nkanyan.md
-    - Adwuma: adowno/adwuma.md
-    - Ahenmaa: adowno/ahenmaa.md
-    - Nhyira: adowno/nhyira.md
-    - Edziban: adowno/edziban.md
-    - Asafokuw: adowno/asafokuw.md
-    - Nkonyim: adowno/nkonyim.md
     - Nyimdzee: adowno/nyimdzee.md
-    - Akandzi: adowno/akandzi.md
-    - Daakye: adowno/daakye.md
+    - Ndwuma: adowno/ndwuma.md
+    - Nhyira: adowno/nhyira.md
+    - Nkonyim: adowno/nkonyim.md
+    - Ahenmaa: adowno/ahenmaa.md
 
 theme:
   name: material
