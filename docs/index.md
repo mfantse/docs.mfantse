@@ -24,4 +24,4 @@ The project is made up of three apps: `Adzesua`, `Nkasafua` and `Adowno`.
 
 **Nkasafua** is the Mfantse language `dictionary app`. It contains all words used in the Mfantse lanaguge and their definitions, word class, example usage in simple sentences, etc.
 
-**Adowno** was the `priestly book` of `Osofo Egya Ahor`, the chief priest of Gomuaman, from the Anona Yorkor royal clan.
+**Adowno** was the `priestly book` of `Osofo Egya Ahor`, a chief priest of Mfantseman, who lived around the 12th century BC.

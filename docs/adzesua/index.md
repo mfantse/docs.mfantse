@@ -33,3 +33,10 @@ close to the Bono Borbor separatists, sharing boundaries with Ajumako and Gomoa.
 The Bureau of Ghana Languages (BGL), is the authority behind the unified Mfantse language, and other Ghanaian languages studied in Ghanaian schools.
 
 
+## Keywords (Terminologies)
+
+| Mfantse               | English               |
+| :-------------------- | : ------------------- |
+| Ɔfa                   | Unit                  |
+| Tsir                  | Topic / Chapter       |
+| Adzesua               | Lesson                |
