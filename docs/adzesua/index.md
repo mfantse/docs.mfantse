@@ -1,6 +1,6 @@
 # Adzesua
 
-Sua Mfantse Kasa (Learn Mantse Language)
+Sua Mfantse Kasa (Learn Mfantse Language)
 
 ## Nyienyim (Preface)
 

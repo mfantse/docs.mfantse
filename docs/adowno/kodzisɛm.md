@@ -26,3 +26,9 @@
 7. Mo nuanom a hom ritsie me, adze kyee anapatutuutu na anyɛnkofo beenu yi yɛɛ kor kɔr nsu no ano. Aborɔkɔ dze Asoaso sii n'ekyir tɔɔ nsu no enyi. Wodur nsu no ne finimfin beebi no, Aborɔkɔ kaa kyerɛɛ Asoaso dɛ; "Osiandɛ kwasea a ibuu me wɔ hɛn sika a edze siei no ho ntsi, mibegyaa wo ato nsu no mu". Hɔ ara na Asoaso kaa dɛ sika no wo fie ntsi oserɛ Aborɔkɔ dɛ mma onnku no na ɔnsan mfa no mbra koko do, na ɔdze ne sika bɛma no. Ɔno ntsi Aborɔkɔ dze Asoaso baa fie bɛgyee ne sika nyinara.
 
 8. M'anansesɛm a memaa yi sɛ ɔyɛ dɛw o, sɛ ɔnnyɛ dɛw o, ma bi nkɔ na bi mbra, medze soa Abam.
+
+## Tsir 2: Asoaso Na Akorɔkɔ Sika Kora
+
+1. Kodzi wɔnngye nndzi oo! Wɔgye sie ma daakye!
+
+2. Nyɛ nyɛ nyɛ, abowa Kweku Ananse na ne yer Ɔkɔndɔr na ne mba na wɔtsenaa ekuroba bi a nna wɔfrɛ no Anansekurow mu. Na wy
